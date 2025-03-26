@@ -1,4 +1,4 @@
-# My First PyTorch Model
+# First AI/ML Model with PyTorch (Linear Regression Model)
 
 This repository contains my first implementation of a machine learning model using PyTorch. I've built a linear regression model that learns to predict values based on the relationship y = weight * x + bias.
 
