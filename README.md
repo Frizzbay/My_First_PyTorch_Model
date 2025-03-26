@@ -18,6 +18,11 @@ The following visualizations show the progression of my model:
 ![Trained Model Predictions](images/trained_predictions.png)
 *Figure 3: Model predictions (red) after training, now closely aligned with the testing data (green).*
 
+## Training Progress
+The following graph shows how the model's loss decreased during training:
+![Training and Test Loss Curve](images/loss_curve.png)
+*Figure 4: Training loss (blue) and test loss (orange) decreasing over epochs, demonstrating the model's learning progress.*
+
 ## What I've Learned
 
 Through this project, I've gained hands-on experience with:
